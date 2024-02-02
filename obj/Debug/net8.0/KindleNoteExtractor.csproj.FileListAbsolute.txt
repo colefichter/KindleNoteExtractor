@@ -1,0 +1,14 @@
+C:\Knut\Projects\dotnet\KindleNoteExtractor\bin\Debug\net8.0\KindleNoteExtractor.exe
+C:\Knut\Projects\dotnet\KindleNoteExtractor\bin\Debug\net8.0\KindleNoteExtractor.deps.json
+C:\Knut\Projects\dotnet\KindleNoteExtractor\bin\Debug\net8.0\KindleNoteExtractor.runtimeconfig.json
+C:\Knut\Projects\dotnet\KindleNoteExtractor\bin\Debug\net8.0\KindleNoteExtractor.dll
+C:\Knut\Projects\dotnet\KindleNoteExtractor\bin\Debug\net8.0\KindleNoteExtractor.pdb
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.AssemblyInfoInputs.cache
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.AssemblyInfo.cs
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.csproj.CoreCompileInputs.cache
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.dll
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\refint\KindleNoteExtractor.dll
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.pdb
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\KindleNoteExtractor.genruntimeconfig.cache
+C:\Knut\Projects\dotnet\KindleNoteExtractor\obj\Debug\net8.0\ref\KindleNoteExtractor.dll
