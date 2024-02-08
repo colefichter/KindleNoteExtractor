@@ -13,7 +13,7 @@ Requires dotnet 8.
 Usage
 -----
 
-Via USB connection, copy find Documents\My Clippings.txt on your kindle and copy it somewhere local, e.g. your desktop.
+Via USB connection, find Documents\My Clippings.txt on your kindle and copy it somewhere local, e.g. your desktop.
 
 From this folder, run:
 
